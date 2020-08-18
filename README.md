@@ -32,7 +32,7 @@ $ npm start
 
 ## Features
 
-- Swipe left and right without the pressue of caring who likes or doesn't like you.
+- Swipe left and right without the pressure of caring who likes or doesn't like you.
 - Check the chat to see your already predetermined matches and messages.
 - Send a message in the chat. I think you know how that is going to go...just like in real life.
 
